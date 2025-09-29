@@ -4,7 +4,7 @@
 
 # *fernandolunaanay@u.boisestate.edu*
 
-[Boise State Education](https://www.boisestate.edu/coen-cs/
+[Boise State Education](https://www.boisestate.edu/coen-cs/)
 
 ## **Interest**
 - Coding
